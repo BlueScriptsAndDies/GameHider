@@ -19,6 +19,3 @@ Why did I make this?
 Ehhh didn't really make it chatgpt did, too lazy to learn javascript. For all of my other work, I make that myself. But for javascript things like these, I'll say I use chatgpt if I do. I'm also going to be honest about it becaue it's free & open source, so not really a big deal. Not going to sell this or anything again js smt cool ig.
 
 But I think you know why I made this.
-
-
-I used an obfuscator for it, not to obufscate it, just to make it work with a bookmarlet :P. If you're using this in the console, just use the code in code.js or whatever it is. 
